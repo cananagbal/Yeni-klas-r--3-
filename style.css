@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header{
+    padding:40px;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+
+nav{
+    background-color: #BC6BFA;
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+nav a {
+    color: aliceblue;
+}
